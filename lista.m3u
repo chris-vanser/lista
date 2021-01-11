@@ -1,0 +1,7 @@
+# lista
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bewitched Hechizada" tvg-logo="" group-title="24/7",24/7 Bewitched Hechizada
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/276.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom y Jerry" tvg-logo="" group-title="24/7",24/7 Tom y Jerry
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/316.ts
