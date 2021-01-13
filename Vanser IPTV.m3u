@@ -1,0 +1,69 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bewitched Hechizada" tvg-logo="" group-title="24/7",24/7 Bewitched Hechizada
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/276.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom y Jerry" tvg-logo="" group-title="24/7",24/7 Tom y Jerry
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/316.ts
+#EXTINF:-1 tvg-id="CL HGTV" tvg-name="CL: HGTV HD" tvg-logo="http://logos.iptv.wtf/culturales/hgtv.png" group-title="Chile",CL: HGTV HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/7199.ts
+#EXTINF:-1 tvg-id="CL HTV" tvg-name="CL: HTV" tvg-logo="http://logos.iptv.wtf/musica/htv.png" group-title="Chile",CL: HTV
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9121.ts
+#EXTINF:-1 tvg-id="CL INVESTIGATION DISCOVERY" tvg-name="CL: Investigation Discovery Full HD" tvg-logo="http://logos.iptv.wtf/culturales/id.png" group-title="Chile",CL: Investigation Discovery Full HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9034.ts
+#EXTINF:-1 tvg-id="CL LA RED" tvg-name="CL: La Red Full HD" tvg-logo="http://logos.iptv.wtf/chile/lared.png" group-title="Chile",CL: La Red Full HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9.ts
+#EXTINF:-1 tvg-id="CL LA RED" tvg-name="CL: La Red Full HD *" tvg-logo="http://logos.iptv.wtf/chile/lared.png" group-title="Chile",CL: La Red Full HD *
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9757.ts
+#EXTINF:-1 tvg-id="CL LA RED" tvg-name="CL: La Red HD" tvg-logo="http://logos.iptv.wtf/chile/lared.png" group-title="Chile",CL: La Red HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/10.ts
+#EXTINF:-1 tvg-id="CL LA RED" tvg-name="CL: La Red HD **" tvg-logo="http://logos.iptv.wtf/chile/lared.png" group-title="Chile",CL: La Red HD **
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9758.ts
+#EXTINF:-1 tvg-id="CL MEGA" tvg-name="CL: Mega Full HD" tvg-logo="http://logos.iptv.wtf/chile/mega.png" group-title="Chile",CL: Mega Full HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/1.ts
+#EXTINF:-1 tvg-id="CL MEGA" tvg-name="CL: Mega HD" tvg-logo="http://logos.iptv.wtf/chile/mega.png" group-title="Chile",CL: Mega HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/2.ts
+#EXTINF:-1 tvg-id="CL MEGA" tvg-name="CL: Mega HD *" tvg-logo="http://logos.iptv.wtf/chile/mega.png" group-title="Chile",CL: Mega HD *
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/7469.ts
+#EXTINF:-1 tvg-id="CL MEGA" tvg-name="CL: Mega HD **" tvg-logo="http://logos.iptv.wtf/chile/mega.png" group-title="Chile",CL: Mega HD **
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9750.ts
+#EXTINF:-1 tvg-id="CL MEGA PLUS" tvg-name="CL: Mega Plus Full HD" tvg-logo="http://logos.iptv.wtf/chile/megaplus.png" group-title="Chile",CL: Mega Plus Full HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/1644.ts
+#EXTINF:-1 tvg-id="CL MEGA PLUS" tvg-name="CL: Mega Plus HD" tvg-logo="http://logos.iptv.wtf/chile/megaplus.png" group-title="Chile",CL: Mega Plus HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9748.ts
+#EXTINF:-1 tvg-id="CL NATGEO" tvg-name="CL: Nat Geo HD" tvg-logo="http://logos.iptv.wtf/culturales/natgeo.png" group-title="Chile",CL: Nat Geo HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/51.ts
+#EXTINF:-1 tvg-id="CL NAT GEO KIDS" tvg-name="CL: Nat Geo Kids Full HD" tvg-logo="http://logos.iptv.wtf/infantiles/natgeokids.png" group-title="Chile",CL: Nat Geo Kids Full HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9027.ts
+#EXTINF:-1 tvg-id="CL RECTV" tvg-name="CL: Rec TV HD" tvg-logo="http://logos.iptv.wtf/chile/rectv.png" group-title="Chile",CL: Rec TV HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/52.ts
+#EXTINF:-1 tvg-id="CL SPACE" tvg-name="CL: Space HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png" group-title="Chile",CL: Space HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9709.ts
+#EXTINF:-1 tvg-id="CL TELETRAK" tvg-name="CL: Teletrak HD" tvg-logo="http://logos.iptv.wtf/chile/teletrak.png" group-title="Chile",CL: Teletrak HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/8681.ts
+#EXTINF:-1 tvg-id="CL TELETRAK" tvg-name="CL: Teletrak HD" tvg-logo="http://logos.iptv.wtf/chile/teletrak.png" group-title="Chile",CL: Teletrak HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/8680.ts
+#EXTINF:-1 tvg-id="CL TNT" tvg-name="CL: TNT HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png" group-title="Chile",CL: TNT HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/56.ts
+#EXTINF:-1 tvg-id="CL TOONCAST" tvg-name="CL: Tooncast" tvg-logo="http://logos.iptv.wtf/infantiles/tooncast.png" group-title="Chile",CL: Tooncast
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9030.ts
+#EXTINF:-1 tvg-id="CL TVPLUS" tvg-name="CL: TV + Full HD" tvg-logo="http://logos.iptv.wtf/chile/ucv.png" group-title="Chile",CL: TV + Full HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/11.ts
+#EXTINF:-1 tvg-id="CL TVPLUS" tvg-name="CL: TV + Full HD *" tvg-logo="http://logos.iptv.wtf/chile/ucv.png" group-title="Chile",CL: TV + Full HD *
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9759.ts
+#EXTINF:-1 tvg-id="CL TVPLUS" tvg-name="CL: TV + HD" tvg-logo="http://logos.iptv.wtf/chile/ucv.png" group-title="Chile",CL: TV + HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/12.ts
+#EXTINF:-1 tvg-id="CL TVPLUS" tvg-name="CL: TV + HD **" tvg-logo="http://logos.iptv.wtf/chile/ucv.png" group-title="Chile",CL: TV + HD **
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9760.ts
+#EXTINF:-1 tvg-id="CL TV SENADO" tvg-name="CL: TV Senado" tvg-logo="http://logos.iptv.wtf/chile/tvsenado.png" group-title="Chile",CL: TV Senado
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/8725.ts
+#EXTINF:-1 tvg-id="CL TVN" tvg-name="CL: TVN Full HD" tvg-logo="http://logos.iptv.wtf/chile/tvn.png" group-title="Chile",CL: TVN Full HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/7.ts
+#EXTINF:-1 tvg-id="CL TVN" tvg-name="CL: TVN Full HD *" tvg-logo="http://logos.iptv.wtf/chile/tvn.png" group-title="Chile",CL: TVN Full HD *
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9755.ts
+#EXTINF:-1 tvg-id="CL TVN" tvg-name="CL: TVN HD" tvg-logo="http://logos.iptv.wtf/chile/tvn.png" group-title="Chile",CL: TVN HD
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/8.ts
+#EXTINF:-1 tvg-id="CL TVN" tvg-name="CL: TVN HD *" tvg-logo="http://logos.iptv.wtf/chile/tvn.png" group-title="Chile",CL: TVN HD *
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9050.ts
+#EXTINF:-1 tvg-id="CL TVN" tvg-name="CL: TVN HD **" tvg-logo="http://logos.iptv.wtf/chile/tvn.png" group-title="Chile",CL: TVN HD **
+http://live.iptv.wtf:80/live/kreuhyzz/98i1I0hgmS/9756.ts
+#EXTINF:-1 tvg-id="CL CNN CHILE" tvg-name="CNN Chile HD" tvg-logo="http://logos.iptv.wtf/chile/cnnchile.png" group-title="Noticias",CNN Chile HD
